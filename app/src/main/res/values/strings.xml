@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="friday">Friday</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="both">Both Day and Night</string>
+    <string name="done">Done</string>
+    <string name="package1">Small Package1 : 1 BED 1 BATH - Price : 500 per DAY</string>
+    <string name="package2">Small Package2 : 1 BED 1 BATH - Price : 500 per NIGHT</string>
+    <string name="package3">Small Package3 : 2 BED 1 BATH - Price : 500 per DAY</string>
+    <string name="package4">Small Package4 : 2 BED 1 BATH - Price : 500 per NIGHT</string>
+    <string name="package5">Small Package5 : 2 BED 2 BATH - Price : 500 per DAY</string>
+    <string name="package6">Small Package6 : 2 BED 2 BATH - Price : 500 per NIGHT</string>
+    <string name="package7">Family Package7 : 3 BED 2 BATH - Price : 500 per DAY</string>
+    <string name="package8">Family Package8 : 3 BED 2 BATH - Price : 500 per NIGHT</string>
+    <string name="package9">Family Package9 : 3 BED 3 BATH - Price : 500 per DAY</string>
+    <string name="package10">Family Package10 : 3 BED 3 BATH - Price : 500 per NIGHT</string>
+</resources>
